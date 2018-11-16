@@ -12683,11 +12683,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Project\\netcore\\VS2017\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Project\\netcore\\VS2017\\jasen2002\\webTest\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Project\\netcore\\VS2017\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Project\\netcore\\VS2017\\jasen2002\\webTest\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\xuzh\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\netcore\\VS2017\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Project\\netcore\\VS2017\\jasen2002\\webTest\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
